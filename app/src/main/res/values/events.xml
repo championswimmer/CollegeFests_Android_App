@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="event_codenames">
+        <item>event1</item>
+        <item>event2</item>
+        <item>event3</item>
+        <item>event4</item>
+    </string-array>
+
+    <string-array name="event_names">
+        <item>"Event 1"</item>
+        <item>"Event Two"</item>
+        <item>"Event-3"</item>
+        <item>"Event'4"</item>
+    </string-array>
+
+    <string-array name="event_desc">
+        <item>"This is event 1"</item>
+        <item>"This is event 2"</item>
+        <item>"This is event 3"</item>
+        <item>"This is event 4"</item>
+    </string-array>
+
+</resources>
